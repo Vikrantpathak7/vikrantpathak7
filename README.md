@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Vikrant Pathak 👋
 
-<!--
-**Vikrantpathak7/vikrantpathak7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year B.Tech student in **AI & Computer Science** at Parul University, Gurugram.
 
-Here are some ideas to get you started:
+## 🎯 Currently Learning
+- **Python** | Pandas | NumPy | Scikit-learn
+- **Data Science** | Machine Learning | Deep Learning
+- **SQL** | Data Analysis | EDA
+- **DSA** in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Focus
+Structured preparation for AI/ML and Data Science internships. Building projects and sharpening fundamentals through:
+- Code with Harry Data Science Course
+- CampusX 100 Days of ML & Deep Learning
+- NeetCode 150 for DSA
+
+## 🏆 Certifications
+- IBM AI Fundamentals (IBM SkillsBuild)
+- AWS Academy Cloud Foundations
+
+## 🔗 Connect With Me
+[LinkedIn](https://linkedin.com/in/vikrantpathak7) | [Email](mailto:pathakvikrant0007@gmail.com)
+
+---
+
+⚡ *Open to internship opportunities in Data Science & Machine Learning*
