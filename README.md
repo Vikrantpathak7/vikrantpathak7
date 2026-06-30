@@ -1,6 +1,6 @@
 # Hi, I'm Vikrant Pathak 
 
-Final Year B.Tech student in **AI & Computer Science** at Parul University, Gurugram.
+Final Year B.Tech CSE student (AI Specialization) at Parul University, Gurugram.
 
 ## 🎯 Currently Learning
 - **Python** | Pandas | NumPy | Scikit-learn
