@@ -1,4 +1,4 @@
-# Hi, I'm Vikrant Pathak 👋
+# Hi, I'm Vikrant Pathak 
 
 Final Year B.Tech student in **AI & Computer Science** at Parul University, Gurugram.
 
