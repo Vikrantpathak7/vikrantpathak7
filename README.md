@@ -1,26 +1,22 @@
-# Hi, I'm Vikrant Pathak 
+# Hi, I'm Vikrant Pathak 👋
 
-Final Year B.Tech CSE student (AI Specialization) at Parul University, Gurugram.
+Final-year B.Tech CSE student (AI Specialization) at Parul University, focused on backend development with Python, Django, and Django REST Framework.
 
-## 🎯 Currently Learning
-- **Python** | Pandas | NumPy | Scikit-learn
-- **Data Science** | Machine Learning | Deep Learning
-- **SQL** | Data Analysis | EDA
-- **DSA** in Python
+## 🛠️ Tech Stack
 
-## 📚 Current Focus
-Structured preparation for AI/ML and Data Science internships. Building projects and sharpening fundamentals through:
-- Code with Harry Data Science Course
-- CampusX 100 Days of ML & Deep Learning
-- NeetCode 150 for DSA
+- **Languages:** Python, SQL
+- **Backend:** Django, Django REST Framework, REST API design
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub, Postman, Docker
+- **AI-assisted development:** Claude, ChatGPT, GitHub Copilot, Cursor
 
 ## 🏆 Certifications
+
 - IBM AI Fundamentals (IBM SkillsBuild)
-- AWS Academy Cloud Foundations
+- AI Fundamentals (Cisco / IBM SkillsBuild)
+- AWS Academy Cloud Foundations (Amazon Web Services)
 
-## 🔗 Connect With Me
-[LinkedIn](https://linkedin.com/in/vikrantpathak7) | [Email](mailto:pathakvikrant0007@gmail.com)
+## 📫 Connect
 
----
-
-⚡ *Open to internship opportunities in Data Science & Machine Learning*
+- [LinkedIn](https://www.linkedin.com/in/vikrantpathak07/)
+- pathakvikrant0007@gmail.com
